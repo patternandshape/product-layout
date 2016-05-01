@@ -1,6 +1,4 @@
-# Album Art Exchange
-
-##### Product Layout
+# Product Layout
 
 March 1, 2016
 
